@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 	char c;
 	printf("enter the character\n");
@@ -9,6 +9,4 @@ int main()
 		printf("alphabet");
 	else
 		printf("not alphabet");
-		
-	return 0;
 }
