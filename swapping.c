@@ -1,5 +1,4 @@
-//program to swap 
-
+//program to swap without using temp variable
 #include<stdio.h>
 int main()
 {
