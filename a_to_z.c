@@ -12,6 +12,8 @@ int main ()
 }
 
 //Example #2: Program to Display English Alphabets in Uppercase and Lowercase
+#include<stdio.h>
+int main()
 {
 	char c;
 	printf("enter l for lower case and u for upper case:\n");
